@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1400148594 source:d:\c++\menu\main.cpp
+	<iostream>
+	<allegro.h>
+
+1401907678 source:d:\gra\menu\main.cpp
+	<iostream>
+	<allegro.h>
+
+1401722304 source:d:\c++\gra\menu\main.cpp
+	<iostream>
+	<allegro.h>
+
